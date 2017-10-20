@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="hint_altura">Ingrese su altura (cm)</string>
+    <string name="hint_peso">Ingrese su peso (kg)</string>
+    <string name="text_calcular">calcular</string>
+    <string name="textIMC">Indice De Masa Corporal</string>
+</resources>
